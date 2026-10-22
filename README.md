@@ -10,8 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faccioni07&label=Visitas%20no%20perfil&color=1f6feb&style=flat-square" alt="Visitas" />
-  <img src="https://img.shields.io/badge/📍-Guarulhos%2C%20SP-0d1117?style=flat-square" alt="Localização" />
   <img src="https://img.shields.io/badge/🎓-Ciência%20da%20Computação-0d1117?style=flat-square" alt="Formação" />
 </p>
 
@@ -19,7 +17,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Prazer, eu sou o **Caio Vinnicius Faccioni Barsotti**, tenho 21 anos e sou **Analista de Sistemas na TRS Sistemas**, em Guarulhos (SP). Enquanto curso o **Bacharelado em Ciência da Computação na Universidade Cruzeiro do Sul** (com formatura prevista para dezembro de 2026), passo meus dias trabalhando no verdadeiro coração das empresas: **ERPs e CRMs**. É ali que pedidos, estoques, finanças e clientes se encontram, e é ali que eu gosto de estar. Personalizo sistemas, cuido de bancos de dados e dou suporte técnico com um objetivo bem simples: resolver problemas reais. Às vezes isso significa montar uma automação com **n8n** rodando em **Docker**; em outras, construir um relatório complexo no **FastReport** ou um painel no **Power BI** que finalmente responde à pergunta que o gestor fazia havia meses.
+Prazer, eu sou o **Caio Vinnicius Faccioni Barsotti**, tenho 21 anos e sou **Analista de Sistemas**. Passo meus dias trabalhando no verdadeiro coração das empresas: **ERPs e CRMs**. É ali que pedidos, estoques, finanças e clientes se encontram, e é ali que eu gosto de estar. Personalizo sistemas, cuido de bancos de dados e dou suporte técnico com um objetivo bem simples: resolver problemas reais. Às vezes isso significa montar uma automação com **n8n** rodando em **Docker**; em outras, construir um relatório complexo no **FastReport** ou um painel no **Power BI** que finalmente responde à pergunta que o gestor fazia havia meses.
 
 Se tem uma coisa que me define, é **disciplina**. Treino musculação cinco vezes por semana no ginásio do meu tio, sigo uma dieta hipercalórica à risca e pratico inglês todos os dias. Nada disso dá resultado do dia para a noite, e é justamente por isso que funciona. A mesma persistência que me faz voltar para o treino quando a carga não sobe é a que me mantém firme diante de um bug teimoso ou de uma query com dez joins que precisa ficar rápida. No código, como na academia, consistência ganha de talento todos os dias.
 
