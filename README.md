@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Faccioni07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Caio!+%F0%9F%91%8B;Analista+de+Sistemas+%40;ERP+%E2%80%A2+CRM+%E2%80%A2+SQL+%E2%80%A2+Firebird;Python+%E2%80%A2+n8n+%E2%80%A2+Docker+%E2%80%A2+Power+BI;Resolvendo+problemas+reais+com+dados+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Caio!+%F0%9F%91%8B;Analista+de+Sistemas;ERP+%E2%80%A2+CRM+%E2%80%A2+SQL+%E2%80%A2+Firebird;Python+%E2%80%A2+n8n+%E2%80%A2+Docker+%E2%80%A2+Power+BI;Resolvendo+problemas+reais+com+dados+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
