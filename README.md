@@ -67,31 +67,44 @@ Também sou **corintiano fanático** e apaixonado por pegar a estrada. Sempre qu
 
 ## 🚀 Projeto em Destaque
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3>💼 Saúde da Carteira</h3>
-      <p>
-        Aplicação web construída com <b>Python</b> e <b>Streamlit</b> para acompanhar investimentos de forma clara e em tempo real.
-        Conectada a <b>APIs financeiras</b>, ela transforma dados de mercado em uma visão única e objetiva do portfólio.
-      </p>
-      <ul>
-        <li>📈 <b>Alocação do portfólio:</b> distribuição por classe de ativo, setor e peso de cada posição.</li>
-        <li>💲 <b>Precificação de ativos:</b> cotações atualizadas automaticamente via API.</li>
-        <li>🩺 <b>Saúde dos investimentos:</b> indicadores que mostram desvios da alocação ideal e pontos de atenção.</li>
-        <li>⚡ <b>Interface rápida e interativa</b>, sem depender de planilhas manuais.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-        <img src="https://img.shields.io/badge/APIs%20Financeiras-00c2a8?style=flat-square&logo=fastapi&logoColor=white" alt="APIs Financeiras" />
-      </p>
-      <a href="https://github.com/Faccioni07/painel-saude-carteira">
-        <img src="https://img.shields.io/badge/Ver%20repositório-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 📉 [Painel de Saúde da Carteira](https://github.com/Faccioni07/painel-saude-carteira)
+
+**Previsão de risco de churn B2B com IA agêntica**, cruzando o financeiro (ERP) e o suporte (Helpdesk) em tempo real via **Model Context Protocol (MCP)**.
+
+<p align="center">
+  <a href="https://github.com/Faccioni07/painel-saude-carteira">
+    <img src="https://raw.githubusercontent.com/Faccioni07/painel-saude-carteira/main/docs/dashboard.png" alt="Dashboard do Painel de Saúde da Carteira" width="90%" />
+  </a>
+</p>
+
+Em empresas B2B, os sinais de churn existem, mas ficam espalhados em sistemas que não conversam. O painel junta os dois lados e responde, em reais, à pergunta que importa:
+
+> **"Quanto da minha receita recorrente está em risco hoje, em quais clientes, e por quê?"**
+
+- 🤖 **IA agêntica com MCP:** ERP e Helpdesk expostos como *tools* que um LLM (Claude Desktop / Claude Code) descobre e combina sozinho.
+- 🔗 **Federação, não ETL:** as duas fontes são consultadas em paralelo (`asyncio`), sem copiar dados.
+- 🩺 **Health Score explicável:** risco de suporte amplificado pelo porte do cliente, mais risco contratual, convertido em **receita em risco**.
+- 🔒 **SQL gerado por LLM com segurança em 3 camadas:** validação textual, conexão read-only e *authorizer* do SQLite.
+- 📊 **Dashboard Streamlit:** KPIs, filtros, ranking por receita em risco e exportação CSV.
+
+| Na carteira de demonstração | Resultado |
+|---|---|
+| Receita recorrente analisada | **R$ 5,0 mi** |
+| Receita em risco identificada | **R$ 837 mil (16,7%)** |
+| Concentração do risco | **58%** em apenas 5 clientes |
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MCP-Anthropic-D97757?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+</p>
+
+<a href="https://github.com/Faccioni07/painel-saude-carteira">
+  <img src="https://img.shields.io/badge/Ver%20repositório-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório" />
+</a>
 
 ---
 
