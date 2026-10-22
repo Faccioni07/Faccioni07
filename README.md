@@ -17,13 +17,11 @@
 
 ## 👨‍💻 Sobre Mim
 
-Prazer, eu sou o **Caio Vinnicius Faccioni Barsotti**, tenho 21 anos e sou **Analista de Sistemas**. Passo meus dias trabalhando no verdadeiro coração das empresas: **ERPs e CRMs**. É ali que pedidos, estoques, finanças e clientes se encontram, e é ali que eu gosto de estar. Personalizo sistemas, cuido de bancos de dados e dou suporte técnico com um objetivo bem simples: resolver problemas reais. Às vezes isso significa montar uma automação com **n8n** rodando em **Docker**; em outras, construir um relatório complexo no **FastReport** ou um painel no **Power BI** que finalmente responde à pergunta que o gestor fazia havia meses.
+Prazer, sou o **Caio**! Tenho 21 anos, estudo **Ciência da Computação** e atuo como **Analista de Sistemas** focado em fazer **ERPs e CRMs** operarem com máxima eficiência. Meu dia a dia envolve resolver problemas complexos com bancos de dados (**Firebird** e **SQL**), criar automações usando **n8n** e **Docker**, e estruturar painéis visuais no **Power BI** e **FastReport**.
 
-Se tem uma coisa que me define, é **disciplina**. Treino musculação cinco vezes por semana no ginásio do meu tio, sigo uma dieta hipercalórica à risca e pratico inglês todos os dias. Nada disso dá resultado do dia para a noite, e é justamente por isso que funciona. A mesma persistência que me faz voltar para o treino quando a carga não sobe é a que me mantém firme diante de um bug teimoso ou de uma query com dez joins que precisa ficar rápida. No código, como na academia, consistência ganha de talento todos os dias.
+Fora do código, a **disciplina** dita minha rotina. Levo a musculação e os estudos de inglês a sério, aplicando o mesmo foco e consistência na tecnologia. Quando quero relaxar, o lado geek entra em cena acompanhando episódios de **One Piece**, jogando **xadrez no Chess.com** ou mergulhando em campanhas imersivas e desafiadoras de jogos como **Red Dead Redemption 2**, **Elden Ring**, **Cyberpunk** e a saga **Star Wars Jedi** (Fallen Order e Survivor).
 
-Nas horas vagas, o meu lado **estrategista** assume o controle. Sou apaixonado por tática: pode ser uma partida de **xadrez no Chess.com**, a gestão de uma franquia inteira no **NBA 2K27** (draft, cap space e trocas pensadas três temporadas à frente) ou acompanhar a jornada épica de **One Piece**, onde cada arco é um lembrete de que boas histórias, assim como bons sistemas, são construídas com planejamento e paciência.
-
-E longe do PC? Aí é outra vida. Sou **corintiano fanático** (sofro, comemoro e não troco por nada), curto me arriscar no **hóquei em patins no Ibirapuera** e adoro juntar a galera para pegar a estrada. A última trip foi para **São Thomé das Letras**, e o **Chile** já está no radar para a próxima. No fim das contas, valorizo muito os amigos e o mundo lá fora, porque é ali que a gente recarrega a energia para voltar e construir coisa boa. 🚗🏔️
+Também sou **corintiano fanático** e apaixonado por pegar a estrada. Sempre que posso, reúno os amigos e coloco o carro na rodovia para fazer roadtrips, explorar novos lugares e aproveitar o mundo offline. 🚗
 
 ---
 
